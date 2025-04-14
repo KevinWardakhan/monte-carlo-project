@@ -1,6 +1,3 @@
-# monte-carlo-project
-Light-tail estimation of a mixed gaussian law
-
 # Monte Carlo Methods Project — Université Paris Dauphine
 
 This repository contains the code and final report for our Monte Carlo simulation project, completed as part of the M1 Quantitative Methods course at Université Paris Dauphine - PSL.
