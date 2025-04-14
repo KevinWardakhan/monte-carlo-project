@@ -40,7 +40,3 @@ Throughout the project, we implemented and analysed several methods to simulate 
   Estimating the required sample size to achieve a given precision in CDF or quantile estimation.
 
 - Advanced: Importance Sampling and Control Variates (optional for future extension)
-
-## Repository Structure
-
-
